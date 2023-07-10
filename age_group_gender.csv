@@ -1,0 +1,16 @@
+age_group,gender,count
+"18 to 24",Female,936
+"18 to 24",Male,1067
+"18 to 24",Non-Conforming,50
+"25 to 34",Female,2368
+"25 to 34",Male,2498
+"25 to 34",Non-Conforming,138
+"35 to 44",Female,2216
+"35 to 44",Male,2611
+"35 to 44",Non-Conforming,136
+"45 to 54",Female,2180
+"45 to 54",Male,2343
+"45 to 54",Non-Conforming,136
+"55 to 64",Female,390
+"55 to 64",Male,392
+"55 to 64",Non-Conforming,21
