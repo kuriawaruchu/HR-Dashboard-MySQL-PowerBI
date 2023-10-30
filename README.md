@@ -1,6 +1,6 @@
 # A Human Resource Analysis and Visualization Using MySQL and PowerBI
 
-![Dashboard](Dashboard snip.png)
+![Dashboard](Dashboard.png)
 ## Data Used
 The `Human Resources.csv` file contains 22214 records.  
 The data runs between the years 2000 to 2020.
